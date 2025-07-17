@@ -17,13 +17,13 @@ Code Functionality Of 1to50sum.py
 
 #Sum of Integers from 1 to 50 using a loop
 
-# Step 1: Initialize the sum
+Step 1: Initialize the sum
 total = 0
 
-# Step 2: Loop from 1 to 50
+Step 2: Loop from 1 to 50
 for i in range(1, 51):
     total += i  # Add each number to total
 
-# Step 3: Display the result
+Step 3: Display the result
 print("The sum of numbers from 1 to 50 is:", total)
 
